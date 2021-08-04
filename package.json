@@ -1,0 +1,32 @@
+{
+  "name": "object-vs-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaitur/object-vs-map.git"
+  },
+  "author": "arturka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaitur/object-vs-map/issues"
+  },
+  "homepage": "https://github.com/kaitur/object-vs-map#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-jest": "^27.0.6",
+    "csv-parser": "^3.0.0",
+    "moment": "^2.29.1",
+    "pg": "^8.7.1",
+    "rxjs": "^7.2.0"
+  }
+}
